@@ -1,7 +1,4 @@
- 
-![Not Available](Results/SampleOutput.png "Sample Output")
-
-# PYTHON PROJECT REPORT
+# BASIC AUGMENTED REALITY USING PYTHON
 
 ## AIM
 To create a simple augmented reality using OpenCV and Aruco.
@@ -30,5 +27,3 @@ The project includes functions to draw 3D objects and coordinate axes that appea
 ## CONCLUSION
 The program works well regardless of the orientation of the Aruco marker. Improved camera calibration with more sample images can increase accuracy. This project provides a basic implementation of AR using OpenCV in Python, with potential applications in online teaching and other real-world scenarios.
 
-Submitted by:
-Aswin Raj K (121801008)

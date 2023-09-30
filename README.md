@@ -22,7 +22,7 @@ After calibrating the camera, the camera matrix and distortion coefficients can 
 ### Sample Outputs
 The project includes functions to draw 3D objects and coordinate axes that appear to rotate and translate when the Aruco marker changes its position or orientation. The outputs show 3D objects and axes projected onto the frame.
 
-![Sample Outputs](sample_outputs.png)
+![Sample Outputs](Results/Sample_Outputs.png)
 
 ## CONCLUSION
 The program works well regardless of the orientation of the Aruco marker. Improved camera calibration with more sample images can increase accuracy. This project provides a basic implementation of AR using OpenCV in Python, with potential applications in online teaching and other real-world scenarios.
